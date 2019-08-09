@@ -1,0 +1,41 @@
+/*BEGIN*/
+.foto{
+    width: 200px;
+    border-radius: 50%;
+    margin-top: -20px;
+}
+.container{
+    text-align: center !important;
+    font-family: 'Quicksand', sans-serif;
+    margin-bottom: -230px;
+}
+.lead{
+    font-size: 0.8rem;
+}
+h1{
+    font-weight: 700;
+}
+.jumbotron{
+    background-color: rgb(0, 0, 0);
+}
+
+/*MIDDEN*/
+.werk{
+    width: 100%;
+}
+.cover{
+    width: 320px;
+}
+.midden{
+    margin-top: 200px;
+}
+.row{
+    margin-bottom: 40px;
+}
+
+/*EINDE*/
+.einde{
+    margin-top: 140px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.7rem;
+}
